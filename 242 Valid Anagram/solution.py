@@ -1,4 +1,4 @@
-def isAnagram(self, s: str, t: str) -> bool:
+def isAnagram(s: str, t: str) -> bool:
     s_map = {}
     t_map = {}
     for char in s:
