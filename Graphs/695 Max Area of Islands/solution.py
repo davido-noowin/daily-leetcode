@@ -1,4 +1,4 @@
-def maxAreaOfIsland(self, grid: list[list[int]]) -> int:
+def maxAreaOfIsland(grid: list[list[int]]) -> int:
     ROWS = len(grid)
     COLS = len(grid[0])
 
